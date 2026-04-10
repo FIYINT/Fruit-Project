@@ -1,0 +1,21 @@
+path: /Users/user/Downloads/Fruit_Project/fruit_dataset  # Update this to your actual path
+train: images/train
+val: images/val
+
+names:
+  0: FreshApple
+  1: RottenApple
+  2: FreshOrange
+  3: RottenOrange
+  4: FreshBanana
+  5: RottenBanana
+  6: FreshGrape
+  7: RottenGrape
+  8: FreshGuava
+  9: RottenGuava
+  10: FreshJujube
+  11: RottenJujube
+  12: FreshPomegranate
+  13: RottenPomegranate
+  14: FreshStrawberry
+  15: RottenStrawberry
